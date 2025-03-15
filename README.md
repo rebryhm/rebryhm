@@ -1,6 +1,6 @@
 #             Hi 👋, I'm Nikita Rana
 
-Learner | AIML and Data analytics Enthusiast 
+Learner | AI/ML, Developing tools and Data analytics Enthusiast 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
