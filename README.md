@@ -41,5 +41,9 @@ Learner | AI/ML, Developing tools and Data analytics Enthusiast
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=flat-square&logo=chatgpt&logoColor=white" alt="ChatGPT" />
     <img src="https://img.shields.io/badge/Grok_3-2E7D32.svg?style=flat-square&logo=grok&logoColor=white" alt="Grok 3" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" />
+
+
     <!-- Add more tools as needed -->
 </p>
