@@ -1,49 +1,40 @@
-#             Hi 👋, I'm Nikita Rana
+# Hi 👋, I'm Nikita Rana
 
-Learner | AI/ML, Developing tools and Data analytics Enthusiast 
+Technical Analyst working across data pipelines, debugging, and enterprise systems — with a growing focus on SQL, data analysis, and automation.
 
+- 🔧 Currently: supporting enterprise projects through issue monitoring, root-cause analysis, and data validation
+- 📊 Interested in: SQL, data analytics, and building tools that turn raw data into decisions
+- 💼 LinkedIn: [in/scifi-technikita](https://www.linkedin.com/in/scifi-technikita)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+### 🔹 Core / Professional
+- **SQL** (MySQL, PostgreSQL) — querying, validating, and reporting on production data
+- **AWS CloudWatch, Kafka** — pipeline and system health monitoring
+- **Apache Superset** — reporting/dashboard views
+- **Postman** — API testing and validation
+- **Jira** — issue tracking and SLA management
 
-### 🔹 Data Analysis & Machine Learning  
-- Pandas, NumPy, Matplotlib, Excel  
-- Scikit-Learn, PyTorch, Power BI , Tableau
+### 🔹 Data Analysis & Automation
+- Python, Pandas, NumPy, Matplotlib
+- Streamlit — building interactive dashboards
+- Excel, Power BI, Tableau
 
-### 🔹 Database Management  
-- SQL
+### 🔹 Also familiar with
+- Scikit-Learn, PyTorch (ML fundamentals)
+- HTML, CSS, JavaScript
+- Git, GitHub
 
-### 🔹 Web Development  
-- HTML, CSS, JavaScript 
+---
 
-### 🔹 Tools  
-- Git, GitHub, ChatGPT prompting ,Grok3 
+## 📌 Featured Projects
 
-### 🔹 Office  
-- Excel, Word, PowerPoint  
+<!-- Once your SQL portfolio project is ready, put it here FIRST -->
 
-### 🔹 Designing  
-- Canva , othe AI tools 
+- **[my-streamlit-app](https://github.com/rebryhm/my-streamlit-app)** — Real-time dashboard in Python/Streamlit to track and compare model performance data
+- **[KOSMO_TECH](https://github.com/rebryhm/KOSMO_TECH)** — Web page presenting curated space/astronomy data and insights
+- **[TkinterCalculator](https://github.com/rebryhm/TkinterCalculator)** — Calculator built with Python's Tkinter
 
-### 🔹 Soft Skills  
-- Communication (English, Hindi)  
-- Editing
+---
 
-## Languages and Tools
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-    <img src="https://img.shields.io/badge/SQL-003B57.svg?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Matplotlib-114D82.svg?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=flat-square&logo=chatgpt&logoColor=white" alt="ChatGPT" />
-    <img src="https://img.shields.io/badge/Grok_3-2E7D32.svg?style=flat-square&logo=grok&logoColor=white" alt="Grok 3" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" />
-
-
-    <!-- Add more tools as needed -->
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=rebryhm&theme=radical&no-frame=false&margin-w=4)
