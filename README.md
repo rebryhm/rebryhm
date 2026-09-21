@@ -1,40 +1,81 @@
-# Hi 👋, I'm Nikita Rana
+# Hi, I'm Nikita Rana
 
-Technical Analyst working across data pipelines, debugging, and enterprise systems — with a growing focus on SQL, data analysis, and automation.
+**Product / Technical Analyst** with experience working across SaaS platforms, production data, SQL-based analysis, API validation, data quality, and client-facing technical workflows.
 
-- 🔧 Currently: supporting enterprise projects through issue monitoring, root-cause analysis, and data validation
-- 📊 Interested in: SQL, data analytics, and building tools that turn raw data into decisions
-- 💼 LinkedIn: [in/scifi-technikita](https://www.linkedin.com/in/scifi-technikita)
+Currently exploring **Product Analyst, Data Analyst, and Business Analyst** opportunities where I can combine technical problem-solving with business understanding and stakeholder collaboration.
+
+* 🔎 **Currently exploring:** Product Analytics, Data Analytics, Business Analysis, and AI/LLM workflows
+* 📊 **Core strengths:** SQL, data validation, root-cause analysis, API testing, requirements gathering, and reporting
+* 🔧 **Technical exposure:** Python, dbt, Snowflake, REST APIs, Postman, Git, Jira, AWS CloudWatch, Kafka
+* 🤖 **AI/LLM:** LangChain, Retrieval-Augmented Generation (RAG), Prompt Engineering, GitHub Copilot
+* 💼 **Status:** Actively looking for Analyst opportunities and available for immediate joining
+* 🔗 **LinkedIn:** [in/scifi-technikita](https://www.linkedin.com/in/scifi-technikita)
 
 ---
 
-### 🔹 Core / Professional
-- **SQL** (MySQL, PostgreSQL) — querying, validating, and reporting on production data
-- **AWS CloudWatch, Kafka** — pipeline and system health monitoring
-- **Apache Superset** — reporting/dashboard views
-- **Postman** — API testing and validation
-- **Jira** — issue tracking and SLA management
+## Core Skills
 
-### 🔹 Data Analysis & Automation
-- Python, Pandas, NumPy, Matplotlib
-- Streamlit — building interactive dashboards
-- Excel, Power BI, Tableau
+### 📊 Data & Analytics
 
-### 🔹 Also familiar with
-- Scikit-Learn, PyTorch (ML fundamentals)
-- HTML, CSS, JavaScript
-- Git, GitHub
+* **SQL** — querying, data analysis, validation, anomaly investigation, and reporting
+* **Python** — data processing, analysis, and automation
+* **dbt & Snowflake** — data transformation, modeling, and analytics workflows
+* **Data Quality** — validation, consistency checks, and root-cause analysis
+* **Excel, Power BI** — reporting and data analysis
+
+### 🔌 APIs & Technical Tools
+
+* **REST APIs** — API testing, validation, and production troubleshooting
+* **Postman** — API testing and scenario validation
+* **Jira** — issue tracking, requirements, and SLA-focused follow-up
+* **Git & GitHub** — version control and project collaboration
+* **AWS CloudWatch, Kafka** — application and data workflow monitoring
+* **ThirdEye, Kibana** — production monitoring and issue investigation
+
+### 🤖 AI & LLM
+
+* **LangChain**
+* **Retrieval-Augmented Generation (RAG)**
+* **Prompt Engineering**
+* **GitHub Copilot**
+* AI/LLM workflow exploration and response validation
+
+### 💼 Business & Product
+
+* Requirements Gathering
+* Stakeholder Communication
+* Technical Documentation
+* Root Cause Analysis
+* Client Communication
+* Production Issue Management
+* Cross-functional Collaboration
 
 ---
 
 ## 📌 Featured Projects
 
-<!-- Once your SQL portfolio project is ready, put it here FIRST -->
+### [RevOps Warehouse](https://github.com/rebryhm/SquadStack-Data-Projects)
 
-- **[my-streamlit-app](https://github.com/rebryhm/my-streamlit-app)** — Real-time dashboard in Python/Streamlit to track and compare model performance data
-- **[KOSMO_TECH](https://github.com/rebryhm/KOSMO_TECH)** — Web page presenting curated space/astronomy data and insights
-- **[TkinterCalculator](https://github.com/rebryhm/TkinterCalculator)** — Calculator built with Python's Tkinter
+Analytics engineering project focused on building a structured data warehouse workflow using SQL, dbt, and Snowflake.
+
+### [Voice Agent KPI Pipeline](https://github.com/rebryhm/SquadStack-Data-Projects)
+
+Data pipeline project focused on processing and analyzing Voice Agent performance metrics and business KPIs.
+
+### [My Streamlit App](https://github.com/rebryhm/my-streamlit-app)
+
+Python and Streamlit dashboard for tracking and comparing production model and machine data.
+
+### [KOSMO_TECH](https://github.com/rebryhm/KOSMO_TECH)
+
+Web project presenting curated space and astronomy data with an interactive interface.
 
 ---
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rebryhm&theme=radical&no-frame=false&margin-w=4)
+**Product Analytics · Data Analytics · Business Analysis · Technical Analysis**
+
+I enjoy working at the intersection of **data, technology, business requirements, and problem-solving**, and I'm particularly interested in roles where I can work closely with both technical and business teams.
+
+---
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rebryhm\&theme=radical\&no-frame=false\&margin-w=4)
