@@ -21,7 +21,7 @@ Currently exploring **Product Analyst, Data Analyst, and Business Analyst** oppo
 * **Python** — data processing, analysis, and automation
 * **dbt & Snowflake** — data transformation, modeling, and analytics workflows
 * **Data Quality** — validation, consistency checks, and root-cause analysis
-* **Excel, Power BI** — reporting and data analysis
+**Cybersecurity & Threat Intelligence:** OpenCTI, STIX, Cyber Threat Intelligence (CTI), MITRE ATT\&CK, Cyber Kill Chain
 
 ### 🔌 APIs & Technical Tools
 
